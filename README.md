@@ -1,4 +1,4 @@
-# messengers
+# Messengers
 Plugin allows you to display icons of popular messengers via shorcode
 
 <strong>/* SAMPLE SHORTCODE */</strong><br>
